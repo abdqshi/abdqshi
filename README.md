@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:111827,50:2563EB,100:7C3AED&text=I%20am%20Abdarahman%20Alqashi&fontSize=43&fontColor=FFFFFF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:00FF9C,50:00B8D9,100:7C3AED&text=I%20am%20Abdarahman%20Alqashi&fontSize=42&fontColor=FFFFFF&stroke=00FF9C&strokeWidth=1&animation=fadeIn"/>
 
 ![](https://komarev.com/ghpvc/?username=abdqshi&label=Profile+Views)
 <br>
