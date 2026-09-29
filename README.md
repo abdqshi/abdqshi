@@ -10,6 +10,7 @@
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Interested+in+SOC+Analyst;Penetration+Testing;Playing+CTF;AI+Trainer;AI+%C3%97+CYS+Researcher;Mobile%2FWeb+Application+DEV" />
+
 ---
 <p align="center">
   <a href="https://skillicons.dev">
