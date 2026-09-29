@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Hi%20I%20am%20Abdarahman%20Alqashi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=I%20am%20Abdarahman%20Alqashi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 ![](https://komarev.com/ghpvc/?username=abdqshi&label=Profile+Views)
 <a href="https://www.linkedin.com/in/abdalrahman-alqashi/">
