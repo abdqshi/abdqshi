@@ -9,7 +9,17 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Interested+in+SOC+Analyst+%7C+Penetration+Testing;Playing+CTF+%7C+AI+Trainer;AI+%C3%97+CYS+Researcher+%7C+Mobile%2FWeb+Application+DEV." />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=false&width=900&lines=Interested+in+SOC+Analyst+%7C+Penetration+Testing" />
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=false&width=900&lines=Playing+CTF+%7C+AI+Trainer" />
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&repeat=false&width=900&lines=AI+%C3%97+CYS+Researcher+%7C+Mobile%2FWeb+Application+DEV." />
+</p>
 
 ---
 <p align="center">
