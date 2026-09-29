@@ -1,8 +1,7 @@
-![](https://komarev.com/ghpvc/?username=abdqshi&label=Profile+Views)
-# Hi, I'm Abdalrahman Alqashi 🌚
+# Hi, I'm
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Abdarahman%20Alqashi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-
+![](https://komarev.com/ghpvc/?username=abdqshi&label=Profile+Views)
 <a href="https://www.linkedin.com/in/abdalrahman-alqashi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
