@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:1F3A4D,100:2F5D73&text=I%20am%20Abdarahman%20Alqashi%20🌚🤍&fontSize=43&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"/>
 
-![](https://komarev.com/ghpvc/?username=abdqshi&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=abdqshi&label=Profile+Views&base=1000000)
 <br>
 <a href="https://www.linkedin.com/in/abdalrahman-alqashi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
